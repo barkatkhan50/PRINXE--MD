@@ -9,7 +9,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668xxx;❣️Prince"
+      "value": "923012707501;❣️Prince"
       },
      "MODE": {
       "description": "mode public or private",
@@ -64,7 +64,7 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "🎡𝗣𝗥𝗜𝗡𝗫𝗘-𝗠𝗗🎡"
+      "value": "🎡*KHOSA-MD*🎡"
       },
     "PACK_NAME": {
       "description": "Put your stickers pack name",
@@ -79,7 +79,7 @@
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "📥-------- *ᴘʀɪɴᴄᴇ-ᴍᴅ* --------📥"
+      "value": "📥-------- *KHOSA-MD* --------📥"
       },
     "STATUSVIEW": {
       "description": "Make it true if you want the bot to auto view status",
@@ -89,7 +89,7 @@
     "Status_Saver": {
       "description": "Make it true if you want the bot to auto save your contacts status",
       "required": false,
-      "value": "false"
+      "value": "true"
       },
     "ANTI_CALL": {
       "description": "Make it true if you want bot to Block unknown callers",
@@ -98,13 +98,13 @@
     },
     "AutoReaction": {
       "description": "Make it true if you want bot to react on chats",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~logS2RJa#9Ip71FnGXJIxvFYW0Jx_K3QihkX_AxQvNzUMDw0LpyI"
     }
     
    
